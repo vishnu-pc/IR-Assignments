@@ -1,0 +1,23 @@
+1. Large Text File:
+Size of the file in bytes (Before): 674425
+Size of the file in bytes (After) lexical analysis: 639325
+Size of the file in bytes (After) removing stopwords: 420675
+Size of the file in bytes (After) stemming: 364449
+
+Text1:
+Size of the file in bytes (Before): 29387
+Size of the file in bytes (After) lexical analysis: 16389
+Size of the file in bytes (After) removing stopwords: 14496
+Size of the file in bytes (After) stemming: 12918
+
+Text2:
+Size of the file in bytes (Before): 11588
+Size of the file in bytes (After) lexical analysis: 8197
+Size of the file in bytes (After) removing stopwords: 7077
+Size of the file in bytes (After) stemming: 6193
+
+Text3:
+Size of the file in bytes (Before): 27201
+Size of the file in bytes (After) lexical analysis: 24584
+Size of the file in bytes (After) removing stopwords: 17128
+Size of the file in bytes (After) stemming: 14598
